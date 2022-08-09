@@ -5,21 +5,69 @@
   </a>
 </h1>
 
-<!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<!-- gif图片 -->
+<div align="center" ><img style="width:250px; height:250px; border-radius:100%;" src="https://github.com/sindre97/sindre97/blob/main/img/github_logo.gif"></div>
 <br>
+
+<!-- 联系徽章 -->
+<p align="center">
+   <a href="https://weixin.qq.com/">
+  <img src="https://img.shields.io/badge/550549443-blue?style=flat-square&logo=wechat">
+ </a>
+ <a href="mailto:yx@mviai.com">
+  <img src="https://img.shields.io/badge/yx@mviai.com-red?style=flat-square&logo=gmail&logoColor=white">
+ </a>
+ <a href="https://blog.mviai.com">
+  <img src="https://img.shields.io/badge/blog.mviai.com-006400?style=flat-square&logo=devdotto&logoColor=white">
+ </a>
+ </p>
+ <!-- 其他徽章 -->
+ <p align="center">
+  <a href="https://github.com/sindre97?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fsindre97"/></a>
+  <a href="https://github.com/Giingu?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/sindre97?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/giingu">
+    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sindre97&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a>
+</p>
+
+### 🛠️ 技能
+<!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![tensorflow](https://img.shields.io/badge/-tensorflow-black?style=flat-square&logo=tensorflow)
+![pytorch](https://img.shields.io/badge/-pytorch-black?style=flat-square&logo=pytorch)
+![opencv](https://img.shields.io/badge/-opencv-black?style=flat-square&logo=opencv)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Node](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
+![ARMv7 Assembly](https://img.shields.io/badge/-ARMv7%20Assembly-black?style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql&logoColor=blue)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=flat-square&logo=unrealengine)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode&logoColor=blue)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea)
+![Jupyter Lab](https://img.shields.io/badge/-Jupyter%20Lab-black?style=flat-square&logo=jupyter)
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=raspberrypi&logoColor=red)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows&logoColor=blue)
 
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sindre97/photos/images/202108300310676.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sindre97&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sindre97/photos/images/202108300312623.png" />
 </div>
 <br>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sindre97&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sindre97&theme=gruvbox&row=1&column=8&no-frame=true&no-bg=true" /></div>
 <br>
 
 
@@ -47,7 +95,8 @@ Clion                    1 hr 4 mins         ███████████�
 
 💻 Operating System: 
 Windows                  1 hr 4 mins         █████████████████████████   100.0%
-
+WSL
+ubuntu
 
 ```
  Last Updated on 07/08/2022 02:11:37 UTC
@@ -80,4 +129,4 @@ Windows                  1 hr 4 mins         ███████████�
 
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://raw.githubusercontent.com/sindre97/sindre97/output/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://github.com/sindre97/sindre97/blob/main/img/github-contribution-grid-snake.svg" /></div>
