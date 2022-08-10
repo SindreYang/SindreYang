@@ -49,7 +49,7 @@
 <img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
 </p>
 
-### 📊 常用软件
+### 📊 常用
 
 ```text
 ⌚︎ Time Zone: Asia/BeiJing
@@ -121,6 +121,7 @@ ubuntu                   1 hr 34 mins         ███████████�
 <p  align="center">
 <img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
 </p>
+
 ### 🏆 历史时刻
 
 
@@ -145,6 +146,7 @@ ubuntu                   1 hr 34 mins         ███████████�
 <p  align="center">
 <img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
 </p>
+
 ### 🔥 回首
 
 
@@ -169,7 +171,11 @@ ubuntu                   1 hr 34 mins         ███████████�
   </tr>
 </table>
 
+<p  align="center">
+<img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
+</p>
 
+###  📈 贡献图
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://github.com/sindre97/sindre97/blob/main/img/github-contribution-grid-snake.svg" /></div>
