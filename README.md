@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=去做你害怕的事!;细节决定成败!&center=true&size=27">
+  <a href="https://blog.mviai.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=去做你害怕的事!;细节决定成败!&center=true&size=30">
   </a>
 </h1>
 
@@ -32,9 +32,10 @@
     <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sindre97&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a>
 </p>
 
-
--------
-
+<p  align="center">
+<img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
+</p>
+  
 ### 👨🏻‍💻 关于我
 
 💡 &nbsp; 一个混迹在人工智能的程序员，别人眼中的疯子，我眼中的工程师，终生致力于完成人工智慧体的探究. \
@@ -44,7 +45,9 @@
 ✍️ &nbsp; 非常喜欢手工制作，拆解，维修.\
 💬 &nbsp; 乐于跟有想法，不放弃，固执的人沟通.
 
--------
+<p  align="center">
+<img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
+</p>
 
 ### 📊 常用软件
 
@@ -65,8 +68,9 @@ WSL                      2 hr 24 mins         ███████████�
 ubuntu                   1 hr 34 mins         █████████████████████████   100.0%
 
 ```
-
--------
+<p  align="center">
+<img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
+</p>
 
 
 ### 🛠️ 技能
@@ -114,7 +118,9 @@ ubuntu                   1 hr 34 mins         ███████████�
 
 
 
--------
+<p  align="center">
+<img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
+</p>
 ### 🏆 历史时刻
 
 
@@ -136,7 +142,9 @@ ubuntu                   1 hr 34 mins         ███████████�
 </div>
 <br>
 
--------
+<p  align="center">
+<img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
+</p>
 ### 🔥 回首
 
 
