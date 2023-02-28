@@ -154,7 +154,7 @@ ubuntu                   1 hr 39 mins         ███
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=sindre97&theme=xcode&bg_color=FF000000&hide_border=true" />
+      <img src="https://activity-graph.herokuapp.com/graph?username=SindreYang&theme=xcode&bg_color=FF000000&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -163,10 +163,10 @@ ubuntu                   1 hr 39 mins         ███
 <table>
   <tr>
     <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500"/>
+      <img src="https://wakatime.com/share/@22d2f7cc-bc33-44e7-998f-e646858b4f03/a6402de6-7675-4165-a7aa-5df42516f36e.svg" width="500"/>
     </td>
     <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500"/>
+      <img src="https://wakatime.com/share/@22d2f7cc-bc33-44e7-998f-e646858b4f03/13c8aa90-c696-4ef5-a53e-40c4a857b4d2.svg" width="500"/>
     </td>
   </tr>
 </table>
