@@ -11,7 +11,7 @@
 
 <!-- 联系徽章 -->
 <p align="center">
-   <a href="https://weixin.qq.com/">
+   <a href="weixin://contacts/profile/qq550549443">
   <img src="https://img.shields.io/badge/550549443-blue?style=flat-square&logo=wechat">
  </a>
  <a href="mailto:yx@mviai.com">
@@ -174,9 +174,10 @@ ubuntu                   1 hr 39 mins         ███
     </td>
   </tr>
 </table>
-
+<!--
 <p  align="center">
-<img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
+<img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">   
+-->
 </p>
 
 ###  📈 贡献图
