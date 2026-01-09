@@ -53,28 +53,7 @@
 <img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
 </p>
 
-### 📊 常用
 
-```text
-⌚︎ Time Zone: Asia/BeiJing
-
-💬 Programming Languages:   
-Python                   5 hr 17 mins         █████████████████████
-C++                      26 mins              ██
-
-🔥 Editors: 
-Pycharm                  8 hr 21 mins         █████████████████████
-Clion                    1 hr 15 mins         ████
-
-💻 Operating System: 
-Windows                 10 hr 14 mins         ███████████████████   
-WSL                      2 hr 20 mins         ██████████   
-ubuntu                   1 hr 39 mins         ███  
-
-```
-<p  align="center">
-<img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
-</p>
 
 
 ### 🛠️ 技能
