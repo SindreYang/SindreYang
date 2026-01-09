@@ -178,10 +178,4 @@ ubuntu                   1 hr 39 mins         ███
 <img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">   
 
 </p>
-<!--
-###  📈 贡献图
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://github.com/sindre97/sindre97/blob/main/img/github-contribution-grid-snake.svg" /></div>
-
--->
