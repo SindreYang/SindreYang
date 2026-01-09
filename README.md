@@ -126,29 +126,5 @@ ubuntu                   1 hr 39 mins         ███
 <img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
 </p>
 
-### 🏆 历史时刻
-
-
-<!-- 连续提交代码天数记录 -->
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SindreYang&theme=dark&hide_border=true" />
-</div>
-<br>
-
-<!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=SindreYang&theme=gruvbox&row=1&column=8&no-frame=true&no-bg=true" /></div>
-<br>
-
-
-<!-- GitHub数据统计 -->
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=SindreYang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SindreYang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-<br>
-
-<p  align="center">
-<img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
-</p>
 
 
