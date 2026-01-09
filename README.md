@@ -151,31 +151,4 @@ ubuntu                   1 hr 39 mins         ███
 <img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
 </p>
 
-### 🔥 回首
-
-
-<!-- GitHub Activity Graph -->
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=SindreYang&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td>
-      <img src="https://wakatime.com/share/@22d2f7cc-bc33-44e7-998f-e646858b4f03/a6402de6-7675-4165-a7aa-5df42516f36e.svg" width="500"/>
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@22d2f7cc-bc33-44e7-998f-e646858b4f03/13c8aa90-c696-4ef5-a53e-40c4a857b4d2.svg" width="500"/>
-    </td>
-  </tr>
-</table>
-<p  align="center">
-<img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">   
-
-</p>
 
