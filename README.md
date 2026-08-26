@@ -4,106 +4,69 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=去做你害怕的事!;细节决定成败!&center=true&size=30">
   </a>
 </h1>
-
 <!-- gif图片 -->
 <div align="center" ><img style="width:250px; height:250px; border-radius:100%;" src="https://github.com/sindre97/sindre97/blob/main/img/github_logo.gif"></div>
-<br>
 
-<!-- 联系徽章 -->
-<p align="center">
-   <a href="weixin://contacts/profile/qq550549443">
-  <img src="https://img.shields.io/badge/550549443-blue?style=flat-square&logo=wechat">
- </a>
- <a href="mailto:yx@mviai.com">
-  <img src="https://img.shields.io/badge/yx@mviai.com-red?style=flat-square&logo=gmail&logoColor=white">
- </a>
- <a href="https://blog.mviai.com">
-  <img src="https://img.shields.io/badge/blog.mviai.com-006400?style=flat-square&logo=devdotto&logoColor=white">
- </a>
- </p>
- 
- <!-- 其他徽章 -->
- <p align="center">
-  <a href="https://github.com/sindre97?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FSindreYang"/></a>
-  <a href="https://github.com/Giingu?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/SindreYang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 </p>
-
-<p align="center">
-  <a href="https://github.com/SindreYang">
-    <img alt="views" title="GitHub profile views" src="https://visitor-badge.laobi.icu/badge?page_id=SindreYang7&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a>
-</p>
-
 <p  align="center">
 <img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
 </p>
   
-### 👨🏻‍💻 关于我
 
-💡 &nbsp; 一个混迹在人工智能的程序员，别人眼中的疯子，我眼中的工程师，终生致力于完成人工智慧体的探究. \
-💻 &nbsp; 目前主要研究方向为口腔方面3D视觉.\
-🎓 &nbsp; 曾经做过Audio算法，NLP算法，CV算法，Jetson嵌入式，RPA系统，AI家居. .\
-🌱 &nbsp; 正在学习如何做好项目管理及需求分析工作.\
-✍️ &nbsp; 非常喜欢手工制作，拆解，维修.\
-💬 &nbsp; 乐于跟有想法，不放弃，固执的人沟通.
+<h1 align="center">Hi, I'm Sindre Yang</h1>
 
-<p  align="center">
-<img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
+<p align="center">
+  AI 技术负责人 / 3D 视觉与生成式 AI 工程师 / AI 创业合伙人候选
 </p>
 
+<p align="center">
+  <a href="https://github.com/SindreYang"><img src="https://img.shields.io/badge/GitHub-SindreYang-181717?style=flat-square&logo=github"></a>
+  <a href="mailto:yx@mviai.com"><img src="https://img.shields.io/badge/Email-yx%40mviai.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://blog.mviai.com/"><img src="https://img.shields.io/badge/Blog-mviai.com-0A7B34?style=flat-square&logo=blogger&logoColor=white"></a>
+</p>
 
+## About me
 
+- 2017 年开始从事 AI 与软件工程，长期负责 AI 能力从 0 到 1 的研发、产品化、部署和交付。
+- 技术主线：口腔三维视觉与网格生成、生成式 AI、Agent 系统、AI 音视频和 GPU 推理优化。
+- 曾负责口腔扫描 → 口腔 CAD → 加工机业务链的 AI 技术方向，独立完成三维隐式网格生成系统并推动上线。
+- 目前持续建设个人 AI 基础库和全栈 AI 研发平台，关注如何把模型能力变成稳定、可用、可交付的产品。
+- 寻找重视产品和市场验证的创业伙伴，也接受 AI 技术负责人 / CTO / AI 平台负责人机会。
 
-### 🛠️ 技能
-<!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+## Selected projects
 
-<!--常用的-->
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![tensorflow](https://img.shields.io/badge/-tensorflow-black?style=flat-square&logo=tensorflow)
-![pytorch](https://img.shields.io/badge/-pytorch-black?style=flat-square&logo=pytorch)
-![opencv](https://img.shields.io/badge/-opencv-black?style=flat-square&logo=opencv)
-![cmake](https://img.shields.io/badge/-cmake-black?style=flat-square&logo=cmake)
-![PYG](https://img.shields.io/badge/-PYG-black?style=flat-square&logo=pyg)
-![ffmpeg](https://img.shields.io/badge/-FFmpeg-black?style=flat-square&logo=ffmpeg)
-![Qt](https://img.shields.io/badge/-Qt-black?style=flat-square&logo=qt)
-![Vtk](https://img.shields.io/badge/-Vtk-black?style=flat-square)
-![Open3d](https://img.shields.io/badge/-Open3d-black?style=flat-square)
-![vedo](https://img.shields.io/badge/-vedo-black?style=flat-square)
-![trimesh](https://img.shields.io/badge/-trimesh-black?style=flat-square)
-![OpenMesh](https://img.shields.io/badge/-OpenMesh-black?style=flat-square)
-![PCL](https://img.shields.io/badge/-PCL-black?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Pycharm](https://img.shields.io/badge/-Pycharm-black?style=flat-square&logo=pycharm)
-![Clion](https://img.shields.io/badge/-Clion-black?style=flat-square&logo=clion)
-![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=shell)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows&logoColor=blue)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+### Denta 3D Project
 
-<!--用过的-->
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Node](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
-![Webassembly](https://img.shields.io/badge/-Webassembly-black?style=flat-square&logo=webassembly)
-![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql&logoColor=blue)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=flat-square&logo=unrealengine)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode&logoColor=blue)
-![Jupyter Lab](https://img.shields.io/badge/-Jupyter%20Lab-black?style=flat-square&logo=jupyter)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=raspberrypi&logoColor=red)
+口腔三维 AI 项目的公开脱敏索引，覆盖网格生成、牙齿分割、结构检测、自动排牙、牙冠 / 嵌体生成，以及 C++ / Python / TensorRT 工程化部署。
 
+- [Repository](https://github.com/SindreYang/Denta_3d_project)
+- [公开产品：云甲 AI CAD](https://www.up3d.cn/zh/software-aidesign)
 
+### VidLab
+
+AI 视频生产平台：以 LangGraph 为基础构建 VidLabAgent，编排审核、查询、理解、素材、配音、数字人和成片流程，支持任务拆解、队列、重试、状态恢复、人工介入、监控和评测。
+
+### Sindre / SindreStudio
+
+个人长期沉淀的 AI / 3D / 音视频基础库，以及整合 2D、3D、AV、LLM、Agent、RAG、MCP、RPA、数据和部署能力的全栈平台。
+
+## Technical focus
+
+`Python` `C++` `PyTorch` `OpenCV` `CUDA` `TensorRT` `ONNX Runtime` `VTK` `Open3D` `Trimesh` `Pybind11` `CMake` `Docker` `FastAPI` `LangGraph` `RAG` `MCP` `FFmpeg`
+
+## Engineering principles
+
+- 先解决真实用户问题，再选择合适的模型和工程方案。
+- 简单判断不滥用大模型，复杂任务才使用上下文和 Agent 编排。
+- 从数据、模型、后处理、服务、部署到产品交互，建立完整闭环。
+- 保护公司和客户数据，只公开可验证、可脱敏的技术内容。
 
 <p  align="center">
-<img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">             
+<img src="https://github.com/sindre97/sindre97/blob/main/img/line.gif">           
+  
 </p>
+
 
 
 
